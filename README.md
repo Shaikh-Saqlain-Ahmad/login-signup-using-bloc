@@ -1,3 +1,3 @@
 # loginsignupusingbloc
 
-A new Flutter project.
+Flutter project to implement login signup using bloc pattern 
